@@ -1,0 +1,36 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Name="windowJanelaPrincipal" x:Class="GSenha.MainWindow"
+        Title="GSenha" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" SizeToContent="WidthAndHeight" Icon="GSenha.ico">
+    <Grid x:Name="gridJanelaPrincipal">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="290"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="gridConteudo" Margin="10,10,10,0" Height="270" VerticalAlignment="Top">
+            <GroupBox x:Name="groupboxConfiguracoes" Header="Configurações" HorizontalAlignment="Left" Width="232" Height="271" VerticalAlignment="Top">
+                <Grid x:Name="gridConfiguracoes" Margin="10,10,0,0" HorizontalAlignment="Left" Width="200" Height="229" VerticalAlignment="Top">
+                    <Label x:Name="labelNumeroDeSenhas" Content="Número de senhas:" HorizontalAlignment="Left" Width="110" Height="26" VerticalAlignment="Top" Margin="10,11,0,0"/>
+                    <TextBox x:Name="textboxNumeroDeSenhas" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="23" RenderTransformOrigin="0.522,0.522" Margin="167,13,0,0" Text="{Binding Value, ElementName=sliderNumeroDeSenhas, StringFormat=\{0:F0\}}"/>
+                    <Slider x:Name="sliderNumeroDeSenhas" Minimum="1" Value="1" VerticalAlignment="Top" Margin="10,41,0,0" Height="25" HorizontalAlignment="Left" Width="180" TickPlacement="TopLeft" Maximum="17"/>
+                    <Label x:Name="labelNumeroDeCaracteres" Content="Número de caracteres:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,69,0,0" Height="26" Width="127"/>
+                    <TextBox x:Name="textboxNumeroDeCaracteres" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="23" RenderTransformOrigin="0.565,0.478" Margin="167,71,0,0" Text="{Binding Value, ElementName=sliderNumeroDeCaracteres, StringFormat=\{0:F0\}}"/>
+                    <Slider x:Name="sliderNumeroDeCaracteres" VerticalAlignment="Top" Minimum="6" TickPlacement="TopLeft" Maximum="12" Margin="10,99,0,0" Height="25" Value="8" HorizontalAlignment="Left" Width="180"/>
+                    <CheckBox x:Name="checkboxMaiusculos" Content="Caracteres maiúsculos [ABC...]" HorizontalAlignment="Left" Margin="10,140,0,-25" VerticalAlignment="Top" Height="16" IsChecked="True"/>
+                    <CheckBox x:Name="checkboxMinusculos" Content="Caracteres minúsculos [abc...]" HorizontalAlignment="Left" Margin="10,161,0,-46" VerticalAlignment="Top" Height="16" IsChecked="True"/>
+                    <CheckBox x:Name="checkboxNumeros" Content="Números [012...]" HorizontalAlignment="Left" Margin="10,182,0,-67" VerticalAlignment="Top" Height="16" IsChecked="True"/>
+                    <CheckBox x:Name="checkboxEspeciais" Content="Caracteres especiais [$%!...]" HorizontalAlignment="Left" Margin="10,203,0,-88" Height="16" VerticalAlignment="Top"/>
+                </Grid>
+            </GroupBox>
+            <Button x:Name="buttonGerar" Content="Gerar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="237,10,0,0" Height="44" Click="ButtonGerar_Click"/>
+            <Button x:Name="buttonSalvar" Content="Salvar" VerticalAlignment="Top" Margin="317,10,0,0" Height="44" HorizontalAlignment="Left" Width="75" Click="ButtonSalvar_Click" IsEnabled="False"/>
+            <TextBox x:Name="textboxSenhasGeradas" HorizontalAlignment="Left" Height="211" Margin="237,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155" VerticalScrollBarVisibility="Visible" FontFamily="Lucida Console"/>
+        </Grid>
+        <StatusBar x:Name="statusbarRodape" Height="25" VerticalAlignment="Top" Grid.Row="1">
+            <StatusBarItem x:Name="statusbaritemVersao" Content="statusbaritemVersao" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+            <StatusBarItem x:Name="statusbaritemDesenvolvedor" Content="Por Franco L. Dalto" HorizontalAlignment="Right" Margin="0,0,5,0"/>
+        </StatusBar>
+    </Grid>
+</Window>
+    
