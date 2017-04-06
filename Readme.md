@@ -5,8 +5,7 @@ Data: 6 de Abril de 2017
   
   Aplicativo licenciado sob a MIT License. Veja o arquivo COPYING para mais informações.
   
-  Para instruções de preparação de ambiente, instalação e compilação, veja nosso Wiki
-  em https://github.com/fraaancooo/gsenha/wiki.
+  Para instruções de preparação de ambiente, instalação e compilação, veja nosso Wiki.
 
 
 Alterações
