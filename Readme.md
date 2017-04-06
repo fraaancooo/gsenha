@@ -1,44 +1,43 @@
 # GSenha
 Data: 6 de Abril de 2017
 
-  Para instruções de instalação ou compilação, veja o arquivo INSTALL.
+  Copyright© 2014 Franco Lyrio Dalto
   
-  Copyright© 2014 Franco L Dalto
+  Aplicativo licenciado sob a MIT License. Veja o arquivo COPYING para mais informações.
   
-  Este programa está licenciado sob a GNU General Public License. Veja o arquivo COPYING para mais informações.
-
-
-Notas
------
-  - Atualizando --
-    * Notas de atualização aqui.
-
-  - Dicas --
-    * Dicas aqui.
+  Para instruções de preparação de ambiente, instalação e compilação, veja nosso Wiki
+  em https://github.com/fraaancooo/gsenha/wiki.
 
 
 Alterações
 ----------
-  Versão 1.0
-  - Novidades da versão aqui.
+  
+  v1.0.5578 r35510
+  - Adicionado botão para salvar as senhas em um arquivo de texto.
+  - As senhas agora podem ser geradas com caracteres especiais.
+  - Aumentamos a capacidade para gerar até 20 senhas.
+  - Aumentamos a capacidade para gerar senhas com até 12 caracteres.
 
 
 Descrição
 ---------
 
-  Descrição do aplicativo em breve.
+  Este aplicativo tem a finalidade única de gerar senhas de forma aleatória, com
+  opções de maiúsculas e/ou minúsculas, com letras e/ou números e caracteres
+  especiais. Sim, existem softwares disponíveis gratuitamente que fazem a mesma
+  coisa ou até mais, entretanto este aplicativo surgiu de motivos acadêmicos.
 
 
-Participe e Ajude!
-------------------
+# Participe e Ajude!
 
   Comentando
   ----------
-  Gostamos de comentários, até mesmo (especialmente) se forem um simples obrigado!
-  :)
+  
+  Gostamos de comentários, até mesmo (especialmente) um simples obrigado! :)
 
   Informando bugs
   ---------------
+  
   Se você quer nos ajudar, considere nos informar os bugs através de Issues:
   https://github.com/fraaancooo/gsenha/issues.
   Por favor seja descritivo o máximo possível e nos diga exatamente o que você fez
@@ -46,17 +45,20 @@ Participe e Ajude!
   
   Sugerindo
   ---------
+  
   Nós não conseguimos saber o que cada um deseja, mas apreciamos cada sugestão que
   que você possa nos enviar. Elas também podem ser enviadas através de Issues
   (veja o link acima).
 
   Programando
   -----------
+  
   Patches são bem vindos. Recursos externos também seriam úteis (ex. icones). Mão
   na massa!
 
   Financiando
   -----------
+  
   Você pode enviar um presente via PayPal se você quiser, para
   fraaancooo@outlook.com
 
