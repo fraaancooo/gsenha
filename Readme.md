@@ -3,7 +3,7 @@ Data: 6 de Abril de 2017
 
   Copyright© 2014 Franco Lyrio Dalto
   
-  Aplicativo licenciado sob a MIT License. Veja o arquivo COPYING para mais informações.
+  Aplicativo licenciado sob a MIT License. Veja o arquivo License.txt para mais informações.
   
   Para instruções de preparação de ambiente, instalação e compilação, veja nosso Wiki.
 
