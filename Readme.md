@@ -14,8 +14,8 @@ Alterações
   v1.0.5578 r35510
   - Adicionado botão para salvar as senhas em um arquivo de texto.
   - As senhas agora podem ser geradas com caracteres especiais.
-  - Aumentamos a capacidade para gerar até 20 senhas.
-  - Aumentamos a capacidade para gerar senhas com até 12 caracteres.
+  - Aumentada a capacidade para gerar até 20 senhas.
+  - Aumentada a capacidade para gerar senhas com até 12 caracteres.
 
 
 Descrição
