@@ -11,16 +11,16 @@ Data: 6 de Abril de 2017
 Notas
 -----
   - Atualizando --
-    * Upgrading notes here.
+    * Notas de atualização aqui.
 
   - Dicas --
-    * Tip notes here.
+    * Dicas aqui.
 
 
 Alterações
 ----------
   Versão 1.0
-  - Novidades do software em breve.
+  - Novidades da versão aqui.
 
 
 Descrição
@@ -30,35 +30,34 @@ Descrição
 
 
 Participe e Ajude!
---------------------------------------------------------------------------------
+------------------
 
   Comentando
-  --------------------------------------------------------------------------------
+  ----------
   Gostamos de comentários, até mesmo (especialmente) se forem um simples obrigado!
   :)
 
   Informando bugs
-  --------------------------------------------------------------------------------
+  ---------------
   Se você quer nos ajudar, considere nos informar os bugs através de Issues:
   https://github.com/fraaancooo/gsenha/issues.
   Por favor seja descritivo o máximo possível e nos diga exatamente o que você fez
   no momento em que algo deu errado.
   
   Sugerindo
-  --------------------------------------------------------------------------------
+  ---------
   Nós não conseguimos saber o que cada um deseja, mas apreciamos cada sugestão que
   que você possa nos enviar. Elas também podem ser enviadas através de Issues
   (veja o link acima).
 
   Programando
-  --------------------------------------------------------------------------------
+  -----------
   Patches são bem vindos. Recursos externos também seriam úteis (ex. icones). Mão
   na massa!
 
   Financiando
-  --------------------------------------------------------------------------------
+  -----------
   Você pode enviar um presente via PayPal se você quiser, para
   fraaancooo@outlook.com
 
-Divirta-se,
--Franco.
+Divirta-se! Franco.
