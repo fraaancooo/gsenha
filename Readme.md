@@ -45,15 +45,13 @@ Descrição
   Sugerindo
   ---------
   
-  Nós não conseguimos saber o que cada um deseja, mas apreciamos cada sugestão que
-  que você possa nos enviar. Elas também podem ser enviadas através de Issues
-  (veja o link acima).
+  É difícil saber o que cada um deseja, mas apreciamos cada sugestão que você
+  possa nos enviar. Utilize a aba Issues (link acima).
 
   Programando
   -----------
   
-  Patches são bem vindos. Recursos externos também seriam úteis (ex. icones). Mão
-  na massa!
+  Patches são bem vindos. Recursos externos também seriam úteis (Ex. ícones).
 
   Financiando
   -----------
