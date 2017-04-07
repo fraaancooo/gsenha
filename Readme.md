@@ -37,8 +37,8 @@ Descrição
   Informando bugs
   ---------------
   
-  Se você quer nos ajudar, considere nos informar os bugs através de Issues:
-  https://github.com/fraaancooo/gsenha/issues.
+  Se você quer nos ajudar, considere nos informar os bugs através da aba
+  Issues: https://github.com/fraaancooo/gsenha/issues.
   Por favor seja descritivo o máximo possível e nos diga exatamente o que você fez
   no momento em que algo deu errado.
   
