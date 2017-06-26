@@ -29,34 +29,33 @@ Descrição
 
 # Participe e Ajude!
 
-  Comentando
-  ----------
+  Deixe seu comentário
+  --------------------
   
-  Gostamos de comentários, até mesmo (especialmente) um simples obrigado! :)
+  Gostamos de comentários, principalmente quando for um simples obrigado! :)
 
-  Informando bugs
-  ---------------
+  Informe bugs
+  ------------
   
-  Se você quer nos ajudar, considere nos informar os bugs através da aba
+  Se você quer me ajudar, considere me informar os bugs que encontrar através da aba
   Issues: https://github.com/fraaancooo/gsenha/issues.
-  Por favor seja descritivo o máximo possível e nos diga exatamente o que você fez
+  Por favor seja descritivo o máximo que puder e me diga exatamente o que você fez
   no momento em que algo deu errado.
   
-  Sugerindo
+  Dê sua sugestão
+  ---------------
+  
+  É difícil saber o que cada um deseja, mas aprecio cada sugestão que você
+  possa me enviar. Utilize a aba Issues para isso (link acima).
+
+  Você também pode programar
+  --------------------------
+  
+  Patches são bem vindos. Recursos externos também seriam úteis (Por exemplo, ícones).
+
+  Contribua
   ---------
   
-  É difícil saber o que cada um deseja, mas apreciamos cada sugestão que você
-  possa nos enviar. Utilize a aba Issues (link acima).
-
-  Programando
-  -----------
-  
-  Patches são bem vindos. Recursos externos também seriam úteis (Ex. ícones).
-
-  Financiando
-  -----------
-  
-  Você pode enviar um presente via PayPal se você quiser, para
-  fraaancooo@outlook.com
+  Obviamente isso não é obrigatório, mas se você deseja contribuir, porque não? Use o PayPal (fraaancooo@outlook.com) ou PicPay (@ldfranco)
 
 Divirta-se! Franco.
